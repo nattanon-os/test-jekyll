@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "my test"
+date:   2019-11-29 16:17:22 +0700
+categories: jekyll update
+---
+My new Post
+##Issuess
+- a
+- b
+- c
+
+```bash
+$ jekyll server
+```
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
